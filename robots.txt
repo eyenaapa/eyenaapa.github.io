@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eyenaapa.github.io/Kaw/sitemap_index.txt
+Sitemap: https://eyenaapa.github.io/hAd/sitemap_index.txt
+Sitemap: https://eyenaapa.github.io/iFI/sitemap_index.txt
+Sitemap: https://eyenaapa.github.io/wUg/sitemap_index.txt
